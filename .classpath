@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.l33tlabs.twl/pngdecoder/1.0/6422688e344db244da42244b21998284bf098948/pngdecoder-1.0.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.l33tlabs.twl/pngdecoder/1.0/987473ad37e8e6cee43337bc1968a0614fe91571/pngdecoder-1.0-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-assimp/3.1.6/11420947d50dbfd70cb942a1e768a6f0b0336a95/lwjgl-assimp-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-assimp/3.1.6/304c9f35299592263a7561fe86bff1f85180e81e/lwjgl-assimp-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-assimp/3.1.6/1343b93af1d24f91883c0dd3a4204731fdf0754b/lwjgl-assimp-3.1.6-natives-windows.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-assimp/3.1.6/304c9f35299592263a7561fe86bff1f85180e81e/lwjgl-assimp-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-bgfx/3.1.6/f90fb13936616d16b2adcd9a24671a68c2070aed/lwjgl-bgfx-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-bgfx/3.1.6/4c8fcf2395905427eaf42fda397ce7644be1c972/lwjgl-bgfx-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-bgfx/3.1.6/f09d878bb1fca49460fa329d0281381e8ef00a8e/lwjgl-bgfx-3.1.6-natives-windows.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-bgfx/3.1.6/4c8fcf2395905427eaf42fda397ce7644be1c972/lwjgl-bgfx-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.6/7fe6af9a51891c9d22ee93c4241c237b4f3a5151/lwjgl-glfw-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.6/af0a105598ed4958e47322663d97cd40e1aa2f96/lwjgl-glfw-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.6/7203889aebc265a9600ab4d5a8df8d03c0a1925c/lwjgl-glfw-3.1.6-natives-windows.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.6/af0a105598ed4958e47322663d97cd40e1aa2f96/lwjgl-glfw-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nanovg/3.1.6/fb2a73aa0f10d28261beb9bac726ff2daf2a754f/lwjgl-nanovg-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nanovg/3.1.6/149f9b162b315bedc63dd6b83d88b2cc7b6804da/lwjgl-nanovg-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nanovg/3.1.6/61a4afb70e89eddd07d42008e8125a0e0dc2e294/lwjgl-nanovg-3.1.6-natives-windows.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nanovg/3.1.6/149f9b162b315bedc63dd6b83d88b2cc7b6804da/lwjgl-nanovg-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nuklear/3.1.6/980b819576ce6473e9d4f5c36be73b6d3c99fc9d/lwjgl-nuklear-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nuklear/3.1.6/ccf33c1b7026ea52d77febf37af3da885ff96321/lwjgl-nuklear-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nuklear/3.1.6/62640e9896d09798e8006e1edf3acca9b4c342a/lwjgl-nuklear-3.1.6-natives-windows.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-nuklear/3.1.6/ccf33c1b7026ea52d77febf37af3da885ff96321/lwjgl-nuklear-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.6/c03253f13fff766ec3fc2e8d0924964d0f09e886/lwjgl-openal-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.6/d1125b7de9d610b73f7769394f7175b22aea5525/lwjgl-openal-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.6/351960d5ebb1678ef99016af9e7ca97881af9288/lwjgl-openal-3.1.6-natives-windows.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.6/d1125b7de9d610b73f7769394f7175b22aea5525/lwjgl-openal-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.6/964a2332ab3b396bcf67f12b8b93d39c79c978c2/lwjgl-opengl-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.6/8640d58796d0c7fe3749692ee9e6b2c7b40a1042/lwjgl-opengl-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.6/505ff142070375c86695445a7c593a727af47964/lwjgl-opengl-3.1.6-natives-windows.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.6/8640d58796d0c7fe3749692ee9e6b2c7b40a1042/lwjgl-opengl-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-par/3.1.6/58579f80d585eade74dcd369bd27208ad172d00/lwjgl-par-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-par/3.1.6/f21344b9b5a1bdab97730fa2a55ef7ccf231bc33/lwjgl-par-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-par/3.1.6/32537fa6f59cef79114f3d82221b6b189ce077ac/lwjgl-par-3.1.6-natives-windows.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-par/3.1.6/f21344b9b5a1bdab97730fa2a55ef7ccf231bc33/lwjgl-par-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.1.6/41e958545f64db9d46ab8e616c3020929bbaeca/lwjgl-stb-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.1.6/600ceb01824c7bdcd43761370bc7bf414acf0a6d/lwjgl-stb-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.1.6/46e0d7bc48189e5f5007a91c5223ad199abbef0b/lwjgl-stb-3.1.6-natives-windows.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.1.6/600ceb01824c7bdcd43761370bc7bf414acf0a6d/lwjgl-stb-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vulkan/3.1.6/ca51af4c3491d44994c2b3b6a5a8dcf4c49ed06d/lwjgl-vulkan-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-vulkan/3.1.6/ceb2832e36c5d32c8dad92be3269a6e2096d0908/lwjgl-vulkan-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.6/75a08ab96db25e3dd05a127e69e314deb0c13161/lwjgl-3.1.6.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.6/496f4d0ece899058dadcc336a4e9c43dc8fbe24b/lwjgl-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.6/a6ebe0dfde6c29836cbd928177012265ec4a8418/lwjgl-3.1.6-natives-windows.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.6/496f4d0ece899058dadcc336a4e9c43dc8fbe24b/lwjgl-3.1.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.joml/joml/1.9.8/ea299da7fe302c58a8cf2ce6461fae3df9b3ff8a/joml-1.9.8.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/org.joml/joml/1.9.8/dade8235eac461dbaa06df7180a42c7d42a31e83/joml-1.9.8-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/com.code-disaster.steamworks4j/steamworks4j-server/1.7.0/98683003cc95eccefccf12b16be08a07ed54847/steamworks4j-server-1.7.0.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/com.code-disaster.steamworks4j/steamworks4j-server/1.7.0/af70cbc7d731b62a673907474d677d4506dc2f4b/steamworks4j-server-1.7.0-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/com.code-disaster.steamworks4j/steamworks4j/1.7.0/7fa41b743baaf7f8f9c5e0e74a6d7f1b1701d153/steamworks4j-1.7.0.jar" sourcepath="C:/Users/tim42/.gradle/caches/modules-2/files-2.1/com.code-disaster.steamworks4j/steamworks4j/1.7.0/4860f237e69f3ac8138e26afb16c71ad4dea4586/steamworks4j-1.7.0-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin/default"/>
+</classpath>

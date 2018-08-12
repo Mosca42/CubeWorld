@@ -1,0 +1,54 @@
+import org.gradle.internal.os.OperatingSystem
+
+switch ( OperatingSystem.current() ) {
+	case OperatingSystem.WINDOWS:
+		project.ext.lwjglNatives = "natives-windows"
+		break
+	case OperatingSystem.LINUX:
+		project.ext.lwjglNatives = "natives-linux"
+	break
+	case OperatingSystem.MAC_OS:
+		project.ext.lwjglNatives = "natives-macos"
+		break
+}
+
+project.ext.lwjglVersion = "3.1.6"
+project.ext.jomlVersion = "1.9.8"
+project.ext.steamworks4jVersion = "1.7.0"
+project.ext.steamworks4j_serverVersion = "1.7.0"
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	compile group: 'org.l33tlabs.twl', name: 'pngdecoder', version: '1.0'
+	compile "org.lwjgl:lwjgl:$lwjglVersion"
+	compile "org.lwjgl:lwjgl-assimp:$lwjglVersion"
+	compile "org.lwjgl:lwjgl-bgfx:$lwjglVersion"
+	compile "org.lwjgl:lwjgl-glfw:$lwjglVersion"
+	compile "org.lwjgl:lwjgl-nanovg:$lwjglVersion"
+	compile "org.lwjgl:lwjgl-nuklear:$lwjglVersion"
+	compile "org.lwjgl:lwjgl-openal:$lwjglVersion"
+	compile "org.lwjgl:lwjgl-opengl:$lwjglVersion"
+	compile "org.lwjgl:lwjgl-par:$lwjglVersion"
+	compile "org.lwjgl:lwjgl-stb:$lwjglVersion"
+	compile "org.lwjgl:lwjgl-vulkan:$lwjglVersion"
+	compile "org.lwjgl:lwjgl:$lwjglVersion:$lwjglNatives"
+	compile "org.lwjgl:lwjgl-assimp:$lwjglVersion:$lwjglNatives"
+	compile "org.lwjgl:lwjgl-bgfx:$lwjglVersion:$lwjglNatives"
+	compile "org.lwjgl:lwjgl-glfw:$lwjglVersion:$lwjglNatives"
+	compile "org.lwjgl:lwjgl-nanovg:$lwjglVersion:$lwjglNatives"
+	compile "org.lwjgl:lwjgl-nuklear:$lwjglVersion:$lwjglNatives"
+	compile "org.lwjgl:lwjgl-openal:$lwjglVersion:$lwjglNatives"
+	compile "org.lwjgl:lwjgl-opengl:$lwjglVersion:$lwjglNatives"
+	compile "org.lwjgl:lwjgl-par:$lwjglVersion:$lwjglNatives"
+	compile "org.lwjgl:lwjgl-stb:$lwjglVersion:$lwjglNatives"
+	compile "org.joml:joml:${jomlVersion}"
+	compile "com.code-disaster.steamworks4j:steamworks4j:${steamworks4jVersion}"
+	compile "com.code-disaster.steamworks4j:steamworks4j-server:${steamworks4j_serverVersion}"
+}
